@@ -30,14 +30,6 @@ https://ekusheyserver.com/etvlivesn.m3u8
 https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv
 #EXTINF:-1, tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Songit Bangla
-http://103.180.212.191:3500/live/740.m3u8
-#EXTINF:-1,group-title="E.I.🇧🇩",Star sport hindi
-http://103.175.73.12:8080/live/151/151_0.m3u8
-#EXTINF:-1 tvg-name="Star Gold 2 HD" group-title="E.I.🇧🇩",Star Gold 2 HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-name="Star Gold HD" group-title="E.I.🇧🇩",Star Gold HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
 #EXTINF:-1 group-title="E.I.🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730401547178-fotor-bg-remover-202411011613.png",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
