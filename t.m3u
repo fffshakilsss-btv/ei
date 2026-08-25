@@ -58,7 +58,6 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 
-
 #EXTINF:-1,group-title="PRO",CN+
 http://103.159.180.34:5001/live/3436.m3u8
 #EXTINF:-1,group-title="PRO",DURANTO
@@ -69,9 +68,7 @@ http://103.159.180.34:5001/live/3424.m3u8
 http://103.159.180.34:5001/live/1341.m3u8
 #EXTINF:-1,group-title="PRO",Sonic Bangla
 http://103.159.180.34:5001/live/1345.m3u8
-#EXTINF:-1,group-title="PRO",Discoverykids
-http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 group-title="PRO",Nick 
+EXTINF:-1 group-title="PRO",Nick 
 http://58.147.140.106:4000/play/a0gj/index.m3u8
 #EXTINF:-1 group-title="PRO",Nick Jr.
 http://58.147.140.106:4000/play/a0fw/index.m3u8
